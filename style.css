@@ -1,0 +1,14 @@
+html {
+    text-align: center;
+    background-color:aquamarine;
+}
+
+#myCarousel {
+    width: 400;
+    height: 200;
+}
+
+#img {
+    width: 300;
+    height: 500;
+}
